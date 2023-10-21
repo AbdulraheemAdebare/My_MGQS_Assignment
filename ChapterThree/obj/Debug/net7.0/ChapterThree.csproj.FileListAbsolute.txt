@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\MyCSharpProject\ChapterThree\bin\Debug\net7.0\ChapterThree.exe
+C:\Users\user\Desktop\MyCSharpProject\ChapterThree\bin\Debug\net7.0\ChapterThree.deps.json
+C:\Users\user\Desktop\MyCSharpProject\ChapterThree\bin\Debug\net7.0\ChapterThree.runtimeconfig.json
+C:\Users\user\Desktop\MyCSharpProject\ChapterThree\bin\Debug\net7.0\ChapterThree.dll
+C:\Users\user\Desktop\MyCSharpProject\ChapterThree\bin\Debug\net7.0\ChapterThree.pdb
+C:\Users\user\Desktop\MyCSharpProject\ChapterThree\obj\Debug\net7.0\ChapterThree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\MyCSharpProject\ChapterThree\obj\Debug\net7.0\ChapterThree.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\MyCSharpProject\ChapterThree\obj\Debug\net7.0\ChapterThree.AssemblyInfo.cs
+C:\Users\user\Desktop\MyCSharpProject\ChapterThree\obj\Debug\net7.0\ChapterThree.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\MyCSharpProject\ChapterThree\obj\Debug\net7.0\ChapterThree.dll
+C:\Users\user\Desktop\MyCSharpProject\ChapterThree\obj\Debug\net7.0\refint\ChapterThree.dll
+C:\Users\user\Desktop\MyCSharpProject\ChapterThree\obj\Debug\net7.0\ChapterThree.pdb
+C:\Users\user\Desktop\MyCSharpProject\ChapterThree\obj\Debug\net7.0\ChapterThree.genruntimeconfig.cache
+C:\Users\user\Desktop\MyCSharpProject\ChapterThree\obj\Debug\net7.0\ref\ChapterThree.dll
