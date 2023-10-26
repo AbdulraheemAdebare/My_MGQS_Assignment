@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Desktop\\MyCSharpProject\\ChapterFour\\ChapterFour.csproj": {}
+    "C:\\Users\\user\\desktop\\my_mgqs_assignment\\chapterfour\\ChapterFour.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Desktop\\MyCSharpProject\\ChapterFour\\ChapterFour.csproj": {
+    "C:\\Users\\user\\desktop\\my_mgqs_assignment\\chapterfour\\ChapterFour.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\MyCSharpProject\\ChapterFour\\ChapterFour.csproj",
+        "projectUniqueName": "C:\\Users\\user\\desktop\\my_mgqs_assignment\\chapterfour\\ChapterFour.csproj",
         "projectName": "ChapterFour",
-        "projectPath": "C:\\Users\\user\\Desktop\\MyCSharpProject\\ChapterFour\\ChapterFour.csproj",
+        "projectPath": "C:\\Users\\user\\desktop\\my_mgqs_assignment\\chapterfour\\ChapterFour.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\MyCSharpProject\\ChapterFour\\obj\\",
+        "outputPath": "C:\\Users\\user\\desktop\\my_mgqs_assignment\\chapterfour\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"

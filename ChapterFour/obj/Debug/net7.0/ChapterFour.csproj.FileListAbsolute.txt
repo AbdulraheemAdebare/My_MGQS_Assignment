@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\My_MGQS_Assignment\chapterfour\obj\Debug\net7.0\ChapterFour.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\My_MGQS_Assignment\chapterfour\obj\Debug\net7.0\ChapterFour.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\My_MGQS_Assignment\chapterfour\obj\Debug\net7.0\ChapterFour.AssemblyInfo.cs
+C:\Users\user\Desktop\My_MGQS_Assignment\chapterfour\obj\Debug\net7.0\ChapterFour.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\My_MGQS_Assignment\chapterfour\bin\Debug\net7.0\ChapterFour.exe
+C:\Users\user\Desktop\My_MGQS_Assignment\chapterfour\bin\Debug\net7.0\ChapterFour.deps.json
+C:\Users\user\Desktop\My_MGQS_Assignment\chapterfour\bin\Debug\net7.0\ChapterFour.runtimeconfig.json
+C:\Users\user\Desktop\My_MGQS_Assignment\chapterfour\bin\Debug\net7.0\ChapterFour.dll
+C:\Users\user\Desktop\My_MGQS_Assignment\chapterfour\bin\Debug\net7.0\ChapterFour.pdb
+C:\Users\user\Desktop\My_MGQS_Assignment\chapterfour\obj\Debug\net7.0\ChapterFour.dll
+C:\Users\user\Desktop\My_MGQS_Assignment\chapterfour\obj\Debug\net7.0\refint\ChapterFour.dll
+C:\Users\user\Desktop\My_MGQS_Assignment\chapterfour\obj\Debug\net7.0\ChapterFour.pdb
+C:\Users\user\Desktop\My_MGQS_Assignment\chapterfour\obj\Debug\net7.0\ChapterFour.genruntimeconfig.cache
+C:\Users\user\Desktop\My_MGQS_Assignment\chapterfour\obj\Debug\net7.0\ref\ChapterFour.dll

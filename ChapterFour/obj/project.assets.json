@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Desktop\\MyCSharpProject\\ChapterFour\\ChapterFour.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Desktop\\My_MGQS_Assignment\\chapterfour\\ChapterFour.csproj",
       "projectName": "ChapterFour",
-      "projectPath": "C:\\Users\\user\\Desktop\\MyCSharpProject\\ChapterFour\\ChapterFour.csproj",
+      "projectPath": "C:\\Users\\user\\Desktop\\My_MGQS_Assignment\\chapterfour\\ChapterFour.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Desktop\\MyCSharpProject\\ChapterFour\\obj\\",
+      "outputPath": "C:\\Users\\user\\Desktop\\My_MGQS_Assignment\\chapterfour\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
