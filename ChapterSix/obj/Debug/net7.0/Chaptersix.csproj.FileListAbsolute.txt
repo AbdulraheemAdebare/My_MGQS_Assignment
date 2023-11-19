@@ -1,0 +1,14 @@
+C:\Users\user\desktop\my_mgqs_assignment\Chaptersix\bin\Debug\net7.0\Chaptersix.exe
+C:\Users\user\desktop\my_mgqs_assignment\Chaptersix\bin\Debug\net7.0\Chaptersix.deps.json
+C:\Users\user\desktop\my_mgqs_assignment\Chaptersix\bin\Debug\net7.0\Chaptersix.runtimeconfig.json
+C:\Users\user\desktop\my_mgqs_assignment\Chaptersix\bin\Debug\net7.0\Chaptersix.dll
+C:\Users\user\desktop\my_mgqs_assignment\Chaptersix\bin\Debug\net7.0\Chaptersix.pdb
+C:\Users\user\desktop\my_mgqs_assignment\Chaptersix\obj\Debug\net7.0\Chaptersix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\desktop\my_mgqs_assignment\Chaptersix\obj\Debug\net7.0\Chaptersix.AssemblyInfoInputs.cache
+C:\Users\user\desktop\my_mgqs_assignment\Chaptersix\obj\Debug\net7.0\Chaptersix.AssemblyInfo.cs
+C:\Users\user\desktop\my_mgqs_assignment\Chaptersix\obj\Debug\net7.0\Chaptersix.csproj.CoreCompileInputs.cache
+C:\Users\user\desktop\my_mgqs_assignment\Chaptersix\obj\Debug\net7.0\Chaptersix.dll
+C:\Users\user\desktop\my_mgqs_assignment\Chaptersix\obj\Debug\net7.0\refint\Chaptersix.dll
+C:\Users\user\desktop\my_mgqs_assignment\Chaptersix\obj\Debug\net7.0\Chaptersix.pdb
+C:\Users\user\desktop\my_mgqs_assignment\Chaptersix\obj\Debug\net7.0\Chaptersix.genruntimeconfig.cache
+C:\Users\user\desktop\my_mgqs_assignment\Chaptersix\obj\Debug\net7.0\ref\Chaptersix.dll

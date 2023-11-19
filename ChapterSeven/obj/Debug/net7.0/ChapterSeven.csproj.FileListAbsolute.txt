@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\My_MGQS_Assignment\ChapterSeven\bin\Debug\net7.0\ChapterSeven.exe
+C:\Users\user\Desktop\My_MGQS_Assignment\ChapterSeven\bin\Debug\net7.0\ChapterSeven.deps.json
+C:\Users\user\Desktop\My_MGQS_Assignment\ChapterSeven\bin\Debug\net7.0\ChapterSeven.runtimeconfig.json
+C:\Users\user\Desktop\My_MGQS_Assignment\ChapterSeven\bin\Debug\net7.0\ChapterSeven.dll
+C:\Users\user\Desktop\My_MGQS_Assignment\ChapterSeven\bin\Debug\net7.0\ChapterSeven.pdb
+C:\Users\user\Desktop\My_MGQS_Assignment\ChapterSeven\obj\Debug\net7.0\ChapterSeven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\My_MGQS_Assignment\ChapterSeven\obj\Debug\net7.0\ChapterSeven.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\My_MGQS_Assignment\ChapterSeven\obj\Debug\net7.0\ChapterSeven.AssemblyInfo.cs
+C:\Users\user\Desktop\My_MGQS_Assignment\ChapterSeven\obj\Debug\net7.0\ChapterSeven.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\My_MGQS_Assignment\ChapterSeven\obj\Debug\net7.0\ChapterSeven.dll
+C:\Users\user\Desktop\My_MGQS_Assignment\ChapterSeven\obj\Debug\net7.0\refint\ChapterSeven.dll
+C:\Users\user\Desktop\My_MGQS_Assignment\ChapterSeven\obj\Debug\net7.0\ChapterSeven.pdb
+C:\Users\user\Desktop\My_MGQS_Assignment\ChapterSeven\obj\Debug\net7.0\ChapterSeven.genruntimeconfig.cache
+C:\Users\user\Desktop\My_MGQS_Assignment\ChapterSeven\obj\Debug\net7.0\ref\ChapterSeven.dll

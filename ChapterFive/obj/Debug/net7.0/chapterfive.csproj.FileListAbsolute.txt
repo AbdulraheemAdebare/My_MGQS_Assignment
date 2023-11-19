@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\My_MGQS_Assignment\chapterfive\bin\Debug\net7.0\chapterfive.exe
+C:\Users\user\Desktop\My_MGQS_Assignment\chapterfive\bin\Debug\net7.0\chapterfive.deps.json
+C:\Users\user\Desktop\My_MGQS_Assignment\chapterfive\bin\Debug\net7.0\chapterfive.runtimeconfig.json
+C:\Users\user\Desktop\My_MGQS_Assignment\chapterfive\bin\Debug\net7.0\chapterfive.dll
+C:\Users\user\Desktop\My_MGQS_Assignment\chapterfive\bin\Debug\net7.0\chapterfive.pdb
+C:\Users\user\Desktop\My_MGQS_Assignment\chapterfive\obj\Debug\net7.0\chapterfive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\My_MGQS_Assignment\chapterfive\obj\Debug\net7.0\chapterfive.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\My_MGQS_Assignment\chapterfive\obj\Debug\net7.0\chapterfive.AssemblyInfo.cs
+C:\Users\user\Desktop\My_MGQS_Assignment\chapterfive\obj\Debug\net7.0\chapterfive.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\My_MGQS_Assignment\chapterfive\obj\Debug\net7.0\chapterfive.dll
+C:\Users\user\Desktop\My_MGQS_Assignment\chapterfive\obj\Debug\net7.0\refint\chapterfive.dll
+C:\Users\user\Desktop\My_MGQS_Assignment\chapterfive\obj\Debug\net7.0\chapterfive.pdb
+C:\Users\user\Desktop\My_MGQS_Assignment\chapterfive\obj\Debug\net7.0\chapterfive.genruntimeconfig.cache
+C:\Users\user\Desktop\My_MGQS_Assignment\chapterfive\obj\Debug\net7.0\ref\chapterfive.dll
