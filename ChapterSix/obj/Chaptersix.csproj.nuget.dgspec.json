@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\desktop\\my_mgqs_assignment\\chaptersix\\Chaptersix.csproj": {}
+    "C:\\Users\\user\\Desktop\\My_MGQS_Assignment\\chaptersix\\Chaptersix.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\desktop\\my_mgqs_assignment\\chaptersix\\Chaptersix.csproj": {
+    "C:\\Users\\user\\Desktop\\My_MGQS_Assignment\\chaptersix\\Chaptersix.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\desktop\\my_mgqs_assignment\\chaptersix\\Chaptersix.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\My_MGQS_Assignment\\chaptersix\\Chaptersix.csproj",
         "projectName": "Chaptersix",
-        "projectPath": "C:\\Users\\user\\desktop\\my_mgqs_assignment\\chaptersix\\Chaptersix.csproj",
+        "projectPath": "C:\\Users\\user\\Desktop\\My_MGQS_Assignment\\chaptersix\\Chaptersix.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\desktop\\my_mgqs_assignment\\chaptersix\\obj\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\My_MGQS_Assignment\\chaptersix\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"

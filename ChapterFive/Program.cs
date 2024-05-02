@@ -13,11 +13,19 @@
 
 // Number Two
 
-Console.WriteLine("Enter three integers of your choice:");
-int yourNumber6 = int.Parse(Console.ReadLine()!);
-int yourNumber7 = int.Parse(Console.ReadLine()!);
-int yourNumber8 = int.Parse(Console.ReadLine()!);
-
+Console.WriteLine("Enter three numbers of your choice:");
+float yourNumber6 = float.Parse(Console.ReadLine()!);
+float yourNumber7 = float.Parse(Console.ReadLine()!);
+float yourNumber8 = float.Parse(Console.ReadLine()!);
+if((yourNumber6 * yourNumber7 * yourNumber8) > 0 ){
+    Console.WriteLine("Positive.");
+}
+else if((yourNumber6 * yourNumber7 * yourNumber8) < 0){
+    Console.WriteLine("Negative");
+}
+else if((yourNumber6 * yourNumber7 * yourNumber8) == 0){
+    Console.WriteLine("The number contains a zero");
+}
 
 // // Number Three
 // Console.Write("Enter the first Number:");

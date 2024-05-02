@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "AgZWNpI1keB2SPjo7UJBU9FgiaZFmhgQDbSw7/5LhL2dlYiEHjqeHiQPn066Kr8B/LuUmfWtiPnGxYPV91Ow3Q==",
+  "dgSpecHash": "NDxPMKUYMwL5IkGdDlse2BxGxdz7c+Rxr7djnAxBhiRrFLdGn9f47oH7qN9MQgGuuaUdHOqaJJp0/sM68co+zg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\Desktop\\MyCSharpProject\\ChapterTwo\\ChapterTwo.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\user\\Desktop\\My_MGQS_Assignment\\ChapterTwo\\ChapterTwo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.18\\microsoft.netcore.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.18\\microsoft.windowsdesktop.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.18\\microsoft.aspnetcore.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.18\\microsoft.netcore.app.host.win-x64.7.0.18.nupkg.sha512"
+  ],
   "logs": []
 }

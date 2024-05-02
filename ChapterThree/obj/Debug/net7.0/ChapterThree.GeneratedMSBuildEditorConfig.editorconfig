@@ -8,4 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ChapterThree
-build_property.ProjectDir = c:\Users\user\desktop\my_mgqs_assignment\ChapterThree\
+build_property.ProjectDir = C:\Users\user\Desktop\My_MGQS_Assignment\ChapterThree\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
